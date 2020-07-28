@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{Dsvi:function(n,e,i){"use strict";i.r(e);var t=i("q1tI"),u=i.n(t),r=i("5Yp1"),c=u.a.createElement;e.default=function(){return c(r.a,null,c("div",null,c("h1",null,"Register")))}},"c05+":function(n,e,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/register",function(){return i("Dsvi")}])}},[["c05+",0,2,4,1,3]]]);

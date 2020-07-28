@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{O2ls:function(n,u,i){"use strict";i.r(u);var o=i("q1tI"),t=i.n(o),l=i("5Yp1"),e=t.a.createElement;u.default=function(){return e(l.a,null,e("div",null,e("h1",null,"Login")))}},u6Hu:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/login",function(){return i("O2ls")}])}},[["u6Hu",0,2,4,1,3]]]);

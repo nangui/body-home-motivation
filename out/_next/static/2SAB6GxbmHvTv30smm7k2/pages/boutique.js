@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{cVlB:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/boutique",function(){return i("fAi0")}])},fAi0:function(n,u,i){"use strict";i.r(u);var t=i("q1tI"),e=i.n(t),o=i("5Yp1"),c=e.a.createElement;u.default=function(){return c(o.a,null,c("div",null,c("h1",null,"Boutique")))}}},[["cVlB",0,2,4,1,3]]]);

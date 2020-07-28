@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"5crJ":function(n,t,u){"use strict";u.r(t);var i=u("q1tI"),r=u.n(i),c=u("5Yp1"),e=r.a.createElement;t.default=function(){return e(c.a,null,e("div",null,e("h1",null,"Tarifs")))}},fNCC:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/tarifs",function(){return u("5crJ")}])}},[["fNCC",0,2,4,1,3]]]);

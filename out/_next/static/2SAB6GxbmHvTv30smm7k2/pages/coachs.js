@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"/Jxc":function(n,o,c){(window.__NEXT_P=window.__NEXT_P||[]).push(["/coachs",function(){return c("Bwo3")}])},Bwo3:function(n,o,c){"use strict";c.r(o);var u=c("q1tI"),t=c.n(u),w=c("5Yp1"),e=t.a.createElement;o.default=function(){return e(w.a,null,e("div",null,e("h1",null,"Coach")))}}},[["/Jxc",0,2,4,1,3]]]);
