@@ -8,9 +8,9 @@ import SectionCallToAction from "../sections/SectionCallToAction";
 import SectionTestimonials from "../sections/SectionTestimonials";
 import SectionNewsLetter from "../sections/SectionNewsLetter";
 
-const Index = (props) => (
+const Index = () => (
   <Layout title="Home">
-    <SectionHero message={props.message} background="/hero-image.jpg" />
+    <SectionHero background="/hero-image.jpg" />
     <SectionPresentation />
     <SectionObjectif />
     <SectionTarif />
@@ -20,15 +20,5 @@ const Index = (props) => (
     <SectionNewsLetter />
   </Layout>
 );
-
-export function getStaticProps() {
-  const message = process.env.HELLO_WORLD;
-
-  return {
-    props: {
-      message,
-    },
-  };
-}
 
 export default Index;
